@@ -1,0 +1,906 @@
+[26184] 12 Feb 23:08:23 >> IP listening:0.0.0.0
+[26184] 12 Feb 23:08:23 >> port: 8402
+[26184] 12 Feb 23:08:23 >> data_file: data/tst.db
+[26184] 12 Feb 23:08:23 >> reponse delay(MS): 0
+[26184] 12 Feb 23:08:23 >> log file: log/tstserver.log
+[26184] 12 Feb 23:08:23 >> no log: 0
+[26184] 12 Feb 23:08:25 [CONN]Connection from 0.0.0.0
+[26184] 12 Feb 23:08:28 >> [26184]will shutdown...
+[26253] 12 Feb 23:08:36 >> IP listening:0.0.0.0
+[26253] 12 Feb 23:08:36 >> port: 8402
+[26253] 12 Feb 23:08:36 >> data_file: data/tst.db
+[26253] 12 Feb 23:08:36 >> reponse delay(MS): 0
+[26253] 12 Feb 23:08:36 >> log file: log/tstserver.log
+[26253] 12 Feb 23:08:36 >> no log: 0
+[26253] 12 Feb 23:08:38 [CONN]Connection from 0.0.0.0
+[26253] 12 Feb 23:08:38 [CONN]Connection from 127.0.0.1
+[26253] 12 Feb 23:08:38 [BYE]: 0.0.0.0, 2
+[26253] 12 Feb 23:08:40 >> [26253]will shutdown...
+[26322] 12 Feb 23:08:43 >> IP listening:0.0.0.0
+[26322] 12 Feb 23:08:43 >> port: 8402
+[26322] 12 Feb 23:08:43 >> data_file: data/tst.db
+[26322] 12 Feb 23:08:43 >> reponse delay(MS): 0
+[26322] 12 Feb 23:08:43 >> log file: log/tstserver.log
+[26322] 12 Feb 23:08:43 >> no log: 0
+[26322] 12 Feb 23:08:45 [CONN]Connection from 0.0.0.0
+[26322] 12 Feb 23:08:54 >> [26322]will shutdown...
+[26426] 12 Feb 23:20:42 >> IP listening:0.0.0.0
+[26426] 12 Feb 23:20:42 >> port: 8402
+[26426] 12 Feb 23:20:42 >> data_file: data/tst.db
+[26426] 12 Feb 23:20:42 >> reponse delay(MS): 0
+[26426] 12 Feb 23:20:42 >> log file: log/tstserver.log
+[26426] 12 Feb 23:20:42 >> no log: 0
+[26426] 12 Feb 23:20:56 [CONN]Connection from 0.0.0.0
+[26426] 12 Feb 23:20:57 [BYE]: 0.0.0.0, 2
+[26426] 12 Feb 23:21:02 >> [26426]will shutdown...
+[26521] 12 Feb 23:22:07 >> IP listening:0.0.0.0
+[26521] 12 Feb 23:22:07 >> port: 8402
+[26521] 12 Feb 23:22:07 >> data_file: data/tst.db
+[26521] 12 Feb 23:22:07 >> reponse delay(MS): 0
+[26521] 12 Feb 23:22:07 >> log file: log/tstserver.log
+[26521] 12 Feb 23:22:07 >> no log: 0
+[26521] 12 Feb 23:24:56 [CONN]Connection from 0.0.0.0
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:56 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:57 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:24:59 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:00 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:00 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:00 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:25:01 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 0.0.0.0, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:26:12 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:29:23 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:29:28 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:29:37 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:29:49 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:30:10 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:31:06 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:32:58 [CONN]Connection from 127.0.0.1
+[26521] 12 Feb 23:33:40 [BYE]: 127.0.0.1, 2
+[26521] 12 Feb 23:33:57 >> [26521]will shutdown...
+[27689] 12 Feb 23:34:22 >> IP listening:0.0.0.0
+[27689] 12 Feb 23:34:22 >> port: 8402
+[27689] 12 Feb 23:34:22 >> data_file: data/tst.db
+[27689] 12 Feb 23:34:22 >> reponse delay(MS): 0
+[27689] 12 Feb 23:34:22 >> log file: log/tstserver.log
+[27689] 12 Feb 23:34:22 >> no log: 0
+[27689] 12 Feb 23:34:23 [CONN]Connection from 0.0.0.0
+[27689] 12 Feb 23:34:26 >> [27689]will shutdown...
+[27759] 12 Feb 23:34:35 >> IP listening:0.0.0.0
+[27759] 12 Feb 23:34:35 >> port: 8402
+[27759] 12 Feb 23:34:35 >> data_file: data/tst.db
+[27759] 12 Feb 23:34:35 >> reponse delay(MS): 0
+[27759] 12 Feb 23:34:35 >> log file: log/tstserver.log
+[27759] 12 Feb 23:34:35 >> no log: 0
+[27759] 12 Feb 23:34:37 [CONN]Connection from 0.0.0.0
+[27759] 12 Feb 23:34:37 [CONN]Connection from 127.0.0.1
+[27759] 12 Feb 23:34:37 [BYE]: 0.0.0.0, 2
+[27759] 12 Feb 23:34:39 >> [27759]will shutdown...
+[27828] 12 Feb 23:34:42 >> IP listening:0.0.0.0
+[27828] 12 Feb 23:34:42 >> port: 8402
+[27828] 12 Feb 23:34:42 >> data_file: data/tst.db
+[27828] 12 Feb 23:34:42 >> reponse delay(MS): 0
+[27828] 12 Feb 23:34:42 >> log file: log/tstserver.log
+[27828] 12 Feb 23:34:42 >> no log: 0
+[27828] 12 Feb 23:34:44 [CONN]Connection from 0.0.0.0
+[27828] 12 Feb 23:34:52 >> [27828]will shutdown...
+[27899] 12 Feb 23:35:07 >> IP listening:0.0.0.0
+[27899] 12 Feb 23:35:07 >> port: 8402
+[27899] 12 Feb 23:35:07 >> data_file: data/tst.db
+[27899] 12 Feb 23:35:07 >> reponse delay(MS): 0
+[27899] 12 Feb 23:35:07 >> log file: log/tstserver.log
+[27899] 12 Feb 23:35:07 >> no log: 0
+[27899] 12 Feb 23:35:11 [CONN]Connection from 0.0.0.0
+[27899] 12 Feb 23:35:53 [BYE]: 0.0.0.0, 2
+[27899] 12 Feb 23:36:43 >> [27899]will shutdown...
+[28140] 12 Feb 23:39:26 >> IP listening:0.0.0.0
+[28140] 12 Feb 23:39:26 >> port: 8402
+[28140] 12 Feb 23:39:26 >> data_file: data/tst.db
+[28140] 12 Feb 23:39:26 >> reponse delay(MS): 0
+[28140] 12 Feb 23:39:26 >> log file: log/tstserver.log
+[28140] 12 Feb 23:39:26 >> no log: 0
+[28140] 12 Feb 23:39:28 [CONN]Connection from 0.0.0.0
+[28140] 12 Feb 23:39:31 >> [28140]will shutdown...
+[28209] 12 Feb 23:39:40 >> IP listening:0.0.0.0
+[28209] 12 Feb 23:39:40 >> port: 8402
+[28209] 12 Feb 23:39:40 >> data_file: data/tst.db
+[28209] 12 Feb 23:39:40 >> reponse delay(MS): 0
+[28209] 12 Feb 23:39:40 >> log file: log/tstserver.log
+[28209] 12 Feb 23:39:40 >> no log: 0
+[28209] 12 Feb 23:39:42 [CONN]Connection from 0.0.0.0
+[28209] 12 Feb 23:39:42 [CONN]Connection from 127.0.0.1
+[28209] 12 Feb 23:39:42 [BYE]: 0.0.0.0, 2
+[28209] 12 Feb 23:39:44 >> [28209]will shutdown...
+[28280] 12 Feb 23:39:47 >> IP listening:0.0.0.0
+[28280] 12 Feb 23:39:47 >> port: 8402
+[28280] 12 Feb 23:39:47 >> data_file: data/tst.db
+[28280] 12 Feb 23:39:47 >> reponse delay(MS): 0
+[28280] 12 Feb 23:39:47 >> log file: log/tstserver.log
+[28280] 12 Feb 23:39:47 >> no log: 0
+[28280] 12 Feb 23:39:49 [CONN]Connection from 0.0.0.0
+[28280] 12 Feb 23:39:57 >> [28280]will shutdown...
+[28383] 12 Feb 23:43:11 >> IP listening:0.0.0.0
+[28383] 12 Feb 23:43:11 >> port: 8402
+[28383] 12 Feb 23:43:11 >> data_file: data/tst.db
+[28383] 12 Feb 23:43:11 >> reponse delay(MS): 0
+[28383] 12 Feb 23:43:11 >> log file: log/tstserver.log
+[28383] 12 Feb 23:43:11 >> no log: 0
+[28383] 12 Feb 23:43:13 >> [28383]will shutdown...
+[31432] 13 Feb 10:41:50 >> IP listening:0.0.0.0
+[31432] 13 Feb 10:41:50 >> port: 8402
+[31432] 13 Feb 10:41:50 >> data_file: data/tst.db
+[31432] 13 Feb 10:41:50 >> reponse delay(MS): 0
+[31432] 13 Feb 10:41:50 >> log file: log/tstserver.log
+[31432] 13 Feb 10:41:50 >> no log: 0
+[31432] 13 Feb 10:41:52 [CONN]Connection from 0.0.0.0
+[31432] 13 Feb 10:41:55 >> [31432]will shutdown...
+[31501] 13 Feb 10:42:04 >> IP listening:0.0.0.0
+[31501] 13 Feb 10:42:04 >> port: 8402
+[31501] 13 Feb 10:42:04 >> data_file: data/tst.db
+[31501] 13 Feb 10:42:04 >> reponse delay(MS): 0
+[31501] 13 Feb 10:42:04 >> log file: log/tstserver.log
+[31501] 13 Feb 10:42:04 >> no log: 0
+[31501] 13 Feb 10:42:06 [CONN]Connection from 0.0.0.0
+[31501] 13 Feb 10:42:06 [CONN]Connection from 127.0.0.1
+[31501] 13 Feb 10:42:06 [BYE]: 0.0.0.0, 2
+[31501] 13 Feb 10:42:08 >> [31501]will shutdown...
+[31570] 13 Feb 10:42:11 >> IP listening:0.0.0.0
+[31570] 13 Feb 10:42:11 >> port: 8402
+[31570] 13 Feb 10:42:11 >> data_file: data/tst.db
+[31570] 13 Feb 10:42:11 >> reponse delay(MS): 0
+[31570] 13 Feb 10:42:11 >> log file: log/tstserver.log
+[31570] 13 Feb 10:42:11 >> no log: 0
+[31570] 13 Feb 10:42:13 [CONN]Connection from 0.0.0.0
+[31570] 13 Feb 10:42:21 >> [31570]will shutdown...
+[31645] 13 Feb 10:43:58 >> IP listening:0.0.0.0
+[31645] 13 Feb 10:43:58 >> port: 8402
+[31645] 13 Feb 10:43:58 >> data_file: data/tst.db
+[31645] 13 Feb 10:43:58 >> reponse delay(MS): 0
+[31645] 13 Feb 10:43:58 >> log file: log/tstserver.log
+[31645] 13 Feb 10:43:58 >> no log: 0
+[31645] 13 Feb 10:44:05 [CONN]Connection from 0.0.0.0
+[31645] 13 Feb 10:44:34 [BYE]: 0.0.0.0, 2
+[31645] 13 Feb 10:44:40 >> [31645]will shutdown...
+[31790] 13 Feb 10:55:50 >> IP listening:0.0.0.0
+[31790] 13 Feb 10:55:50 >> port: 8402
+[31790] 13 Feb 10:55:50 >> data_file: data/tst.db
+[31790] 13 Feb 10:55:50 >> reponse delay(MS): 0
+[31790] 13 Feb 10:55:50 >> log file: log/tstserver.log
+[31790] 13 Feb 10:55:50 >> no log: 0
+[31790] 13 Feb 10:55:56 [CONN]Connection from 0.0.0.0
+[31790] 13 Feb 10:56:03 [BYE]: 0.0.0.0, 2
+[31790] 13 Feb 10:56:10 [CONN]Connection from 127.0.0.1
+[31790] 13 Feb 10:56:11 [BYE]: 127.0.0.1, 2
+[31790] 13 Feb 10:58:40 >> [31790]will shutdown...
+[31912] 13 Feb 10:58:50 >> IP listening:0.0.0.0
+[31912] 13 Feb 10:58:50 >> port: 8402
+[31912] 13 Feb 10:58:50 >> data_file: data/tst.db
+[31912] 13 Feb 10:58:50 >> reponse delay(MS): 0
+[31912] 13 Feb 10:58:50 >> log file: log/tstserver.log
+[31912] 13 Feb 10:58:50 >> no log: 0
+[31912] 13 Feb 10:58:54 [CONN]Connection from 0.0.0.0
+[31912] 13 Feb 10:59:15 [BYE]: 0.0.0.0, 2
+[31912] 13 Feb 10:59:18 >> [31912]will shutdown...
+[32011] 13 Feb 10:59:29 >> IP listening:0.0.0.0
+[32011] 13 Feb 10:59:29 >> port: 8402
+[32011] 13 Feb 10:59:29 >> data_file: data/tst.db
+[32011] 13 Feb 10:59:29 >> reponse delay(MS): 0
+[32011] 13 Feb 10:59:29 >> log file: log/tstserver.log
+[32011] 13 Feb 10:59:29 >> no log: 0
+[32011] 13 Feb 10:59:31 [CONN]Connection from 0.0.0.0
+[32011] 13 Feb 10:59:34 >> [32011]will shutdown...
+[32080] 13 Feb 10:59:43 >> IP listening:0.0.0.0
+[32080] 13 Feb 10:59:43 >> port: 8402
+[32080] 13 Feb 10:59:43 >> data_file: data/tst.db
+[32080] 13 Feb 10:59:43 >> reponse delay(MS): 0
+[32080] 13 Feb 10:59:43 >> log file: log/tstserver.log
+[32080] 13 Feb 10:59:43 >> no log: 0
+[32080] 13 Feb 10:59:45 [CONN]Connection from 0.0.0.0
+[32080] 13 Feb 10:59:45 [CONN]Connection from 127.0.0.1
+[32080] 13 Feb 10:59:45 [BYE]: 0.0.0.0, 2
+[32080] 13 Feb 10:59:47 >> [32080]will shutdown...
+[32149] 13 Feb 10:59:50 >> IP listening:0.0.0.0
+[32149] 13 Feb 10:59:50 >> port: 8402
+[32149] 13 Feb 10:59:50 >> data_file: data/tst.db
+[32149] 13 Feb 10:59:50 >> reponse delay(MS): 0
+[32149] 13 Feb 10:59:50 >> log file: log/tstserver.log
+[32149] 13 Feb 10:59:50 >> no log: 0
+[32149] 13 Feb 10:59:52 [CONN]Connection from 0.0.0.0
+[32149] 13 Feb 11:00:01 >> [32149]will shutdown...
+[867] 13 Feb 13:10:38 >> IP listening:0.0.0.0
+[867] 13 Feb 13:10:38 >> port: 8402
+[867] 13 Feb 13:10:38 >> data_file: data/tst.db
+[867] 13 Feb 13:10:38 >> reponse delay(MS): 0
+[867] 13 Feb 13:10:38 >> log file: log/tstserver.log
+[867] 13 Feb 13:10:38 >> no log: 0
+[867] 13 Feb 13:10:40 >> [867]will shutdown...
+[867] 13 Feb 13:10:40 >> [867]waiting worker thread....
+[867] 13 Feb 13:10:40 >> [867]Bye~
+[2044] 13 Feb 16:52:09 >> IP listening:0.0.0.0
+[2044] 13 Feb 16:52:09 >> port: 8402
+[2044] 13 Feb 16:52:09 >> data_file: data/tst.db
+[2044] 13 Feb 16:52:09 >> reponse delay(MS): 0
+[2044] 13 Feb 16:52:09 >> log file: log/tstserver.log
+[2044] 13 Feb 16:52:09 >> no log: 0
+[2044] 13 Feb 16:52:30 >> [2044]will shutdown...
+[2044] 13 Feb 16:52:30 >> [2044]waiting worker thread....
+[2044] 13 Feb 16:52:30 >> [2044]Bye~
+[2156] 13 Feb 17:01:21 >> IP listening:0.0.0.0
+[2156] 13 Feb 17:01:21 >> port: 8402
+[2156] 13 Feb 17:01:21 >> data_file: data/tst.db
+[2156] 13 Feb 17:01:21 >> reponse delay(MS): 0
+[2156] 13 Feb 17:01:21 >> log file: log/tstserver.log
+[2156] 13 Feb 17:01:21 >> no log: 0
+[2156] 13 Feb 17:08:17 >> [2156]will shutdown...
+[2156] 13 Feb 17:08:17 >> [2156]waiting worker thread....
+[2156] 13 Feb 17:08:17 >> [2156]Bye~
+[2412] 13 Feb 17:33:32 >> IP listening:0.0.0.0
+[2412] 13 Feb 17:33:32 >> port: 8402
+[2412] 13 Feb 17:33:32 >> data_file: data/tst.db
+[2412] 13 Feb 17:33:32 >> reponse delay(MS): 0
+[2412] 13 Feb 17:33:32 >> log file: log/tstserver.log
+[2412] 13 Feb 17:33:32 >> no log: 0
+[2412] 13 Feb 17:34:39 [CONN]Connection from 0.0.0.0
+[2412] 13 Feb 17:34:54 [BYE]: 0.0.0.0, 2
+[2412] 14 Feb 14:33:43 >> [2412]will shutdown...
+[2412] 14 Feb 14:33:43 >> [2412]waiting worker thread....
+[2412] 14 Feb 14:33:44 >> [2412]Bye~
+[20619] 14 Feb 15:51:41 >> IP listening:0.0.0.0
+[20619] 14 Feb 15:51:41 >> port: 8402
+[20619] 14 Feb 15:51:41 >> data_file: data/tst.db
+[20619] 14 Feb 15:51:41 >> reponse delay(MS): 0
+[20619] 14 Feb 15:51:41 >> log file: log/tstserver.log
+[20619] 14 Feb 15:51:41 >> no log: 0
+[20619] 14 Feb 15:51:43 [CONN]Connection from 0.0.0.0
+[20619] 14 Feb 15:51:46 >> [20619]will shutdown...
+[20619] 14 Feb 15:51:46 >> [20619]waiting worker thread....
+[20619] 14 Feb 15:51:47 >> [20619]Bye~
+[20688] 14 Feb 15:51:54 >> IP listening:0.0.0.0
+[20688] 14 Feb 15:51:54 >> port: 8402
+[20688] 14 Feb 15:51:54 >> data_file: data/tst.db
+[20688] 14 Feb 15:51:54 >> reponse delay(MS): 0
+[20688] 14 Feb 15:51:54 >> log file: log/tstserver.log
+[20688] 14 Feb 15:51:54 >> no log: 0
+[20688] 14 Feb 15:51:56 [CONN]Connection from 0.0.0.0
+[20688] 14 Feb 15:51:56 [CONN]Connection from 127.0.0.1
+[20688] 14 Feb 15:51:56 [BYE]: 0.0.0.0, 2
+[20688] 14 Feb 15:51:58 >> [20688]will shutdown...
+[20688] 14 Feb 15:51:58 >> [20688]waiting worker thread....
+[20688] 14 Feb 15:51:59 >> [20688]Bye~
+[20761] 14 Feb 15:52:01 >> IP listening:0.0.0.0
+[20761] 14 Feb 15:52:01 >> port: 8402
+[20761] 14 Feb 15:52:01 >> data_file: data/tst.db
+[20761] 14 Feb 15:52:01 >> reponse delay(MS): 0
+[20761] 14 Feb 15:52:01 >> log file: log/tstserver.log
+[20761] 14 Feb 15:52:01 >> no log: 0
+[20761] 14 Feb 15:52:03 [CONN]Connection from 0.0.0.0
+[20761] 14 Feb 15:52:12 >> [20761]will shutdown...
+[20761] 14 Feb 15:52:12 >> [20761]waiting worker thread....
+[20761] 14 Feb 15:52:13 >> [20761]Bye~
+[20761] 14 Feb 15:52:13 >> [20761]Bye~
+[20761] 14 Feb 15:52:14 >> [20761]will shutdown...
+[31708] 17 Feb 08:35:40 >> IP listening:0.0.0.0
+[31708] 17 Feb 08:35:40 >> port: 8402
+[31708] 17 Feb 08:35:40 >> data_file: data/tst.db
+[31708] 17 Feb 08:35:40 >> reponse delay(MS): 0
+[31708] 17 Feb 08:35:40 >> log file: log/tstserver.log
+[31708] 17 Feb 08:35:40 >> no log: 0
+[31708] 17 Feb 08:35:46 >> [31708]will shutdown...
+[31708] 17 Feb 08:35:46 >> [31708]waiting worker thread....
+[31708] 17 Feb 08:35:46 >> [31708]Bye~
+[31775] 17 Feb 08:36:15 >> IP listening:0.0.0.0
+[31775] 17 Feb 08:36:15 >> port: 8402
+[31775] 17 Feb 08:36:15 >> data_file: data/tst.db
+[31775] 17 Feb 08:36:15 >> reponse delay(MS): 0
+[31775] 17 Feb 08:36:15 >> log file: log/tstserver.log
+[31775] 17 Feb 08:36:15 >> no log: 0
+[31775] 17 Feb 08:36:20 [CONN]Connection from 0.0.0.0
+[31775] 17 Feb 08:36:35 [BYE]: 0.0.0.0, 2
+[31775] 17 Feb 08:36:41 >> [31775]will shutdown...
+[31775] 17 Feb 08:36:41 >> [31775]waiting worker thread....
+[31775] 17 Feb 08:36:41 >> [31775]Bye~
+[31844] 17 Feb 08:36:49 >> IP listening:0.0.0.0
+[31844] 17 Feb 08:36:49 >> port: 8402
+[31844] 17 Feb 08:36:49 >> data_file: data/tst.db
+[31844] 17 Feb 08:36:49 >> reponse delay(MS): 0
+[31844] 17 Feb 08:36:49 >> log file: log/tstserver.log
+[31844] 17 Feb 08:36:49 >> no log: 0
+[31844] 17 Feb 08:36:53 [CONN]Connection from 0.0.0.0
+[31844] 17 Feb 08:36:56 [BYE]: 0.0.0.0, 2
+[31844] 17 Feb 08:37:35 >> [31844]will shutdown...
+[31844] 17 Feb 08:37:35 >> [31844]waiting worker thread....
+[31844] 17 Feb 08:37:36 >> [31844]Bye~
+[31951] 17 Feb 08:38:03 >> IP listening:0.0.0.0
+[31951] 17 Feb 08:38:03 >> port: 8402
+[31951] 17 Feb 08:38:03 >> data_file: data/tst.db
+[31951] 17 Feb 08:38:03 >> reponse delay(MS): 0
+[31951] 17 Feb 08:38:03 >> log file: log/tstserver.log
+[31951] 17 Feb 08:38:03 >> no log: 0
+[31951] 17 Feb 08:38:03 new tst index in memory, because no index file
+[31951] 17 Feb 08:38:03 binglog replayed,pair count: 1 [OK]
+[31951] 17 Feb 08:38:08 >> [31951]will shutdown...
+[31951] 17 Feb 08:38:08 >> [31951]waiting worker thread....
+[31951] 17 Feb 08:38:09 dump to temp index file [OK]
+[31951] 17 Feb 08:38:09 overwrite index file [OK]
+[31951] 17 Feb 08:38:09 remove binlog file[OK]
+[31951] 17 Feb 08:38:09 >> [31951]Bye~
+[32018] 17 Feb 08:38:15 >> IP listening:0.0.0.0
+[32018] 17 Feb 08:38:15 >> port: 8402
+[32018] 17 Feb 08:38:15 >> data_file: data/tst.db
+[32018] 17 Feb 08:38:15 >> reponse delay(MS): 0
+[32018] 17 Feb 08:38:15 >> log file: log/tstserver.log
+[32018] 17 Feb 08:38:15 >> no log: 0
+[32018] 17 Feb 08:38:15 reload tst index [OK]
+[32018] 17 Feb 08:38:15 binglog replayed,pair count: 1 [OK]
+[32018] 17 Feb 08:38:18 [CONN]Connection from 0.0.0.0
+[32018] 17 Feb 08:38:31 [BYE]: 0.0.0.0, 2
+[32018] 17 Feb 08:38:32 >> [32018]will shutdown...
+[32018] 17 Feb 08:38:32 >> [32018]waiting worker thread....
+[32018] 17 Feb 08:38:33 dump to temp index file [OK]
+[32018] 17 Feb 08:38:33 overwrite index file [OK]
+[32018] 17 Feb 08:38:33 remove binlog file[OK]
+[32018] 17 Feb 08:38:33 >> [32018]Bye~
+[32085] 17 Feb 08:38:36 >> IP listening:0.0.0.0
+[32085] 17 Feb 08:38:36 >> port: 8402
+[32085] 17 Feb 08:38:36 >> data_file: data/tst.db
+[32085] 17 Feb 08:38:36 >> reponse delay(MS): 0
+[32085] 17 Feb 08:38:36 >> log file: log/tstserver.log
+[32085] 17 Feb 08:38:36 >> no log: 0
+[32085] 17 Feb 08:38:36 reload tst index [OK]
+[32085] 17 Feb 08:38:36 binglog replayed,pair count: 1 [OK]
+[32085] 17 Feb 08:38:42 [CONN]Connection from 0.0.0.0
+[32085] 17 Feb 08:38:50 [BYE]: 0.0.0.0, 2
+[32085] 17 Feb 08:38:56 [CONN]Connection from 127.0.0.1
+[32085] 17 Feb 08:39:03 [BYE]: 127.0.0.1, 2
+[32085] 17 Feb 08:39:12 >> [32085]will shutdown...
+[32085] 17 Feb 08:39:12 >> [32085]waiting worker thread....
+[32085] 17 Feb 08:39:12 dump to temp index file [OK]
+[32085] 17 Feb 08:39:12 overwrite index file [OK]
+[32085] 17 Feb 08:39:12 remove binlog file[OK]
+[32085] 17 Feb 08:39:12 >> [32085]Bye~
+[724] 17 Feb 09:18:32 >> IP listening:0.0.0.0
+[724] 17 Feb 09:18:32 >> port: 8402
+[724] 17 Feb 09:18:32 >> data_file: data/tst.db
+[724] 17 Feb 09:18:32 >> reponse delay(MS): 0
+[724] 17 Feb 09:18:32 >> log file: log/tstserver.log
+[724] 17 Feb 09:18:32 >> no log: 0
+[724] 17 Feb 09:18:32 reload tst index [OK]
+[724] 17 Feb 09:18:32 binglog replayed,pair count: 1 [OK]
+[724] 17 Feb 09:18:44 >> [724]will shutdown...
+[724] 17 Feb 09:18:44 >> [724]waiting worker thread....
+[724] 17 Feb 09:18:44 dump to temp index file [OK]
+[724] 17 Feb 09:18:44 overwrite index file [OK]
+[724] 17 Feb 09:18:44 remove binlog file[OK]
+[724] 17 Feb 09:18:44 >> [724]Bye~
+[8514] 25 Feb 22:31:20 >> IP listening:0.0.0.0
+[8514] 25 Feb 22:31:20 >> port: 8402
+[8514] 25 Feb 22:31:20 >> data_file: data/tst.db
+[8514] 25 Feb 22:31:20 >> reponse delay(MS): 0
+[8514] 25 Feb 22:31:20 >> log file: log/tstserver.log
+[8514] 25 Feb 22:31:20 >> no log: 0
+[8514] 25 Feb 22:31:20 reload tst index [OK]
+[8514] 25 Feb 22:31:20 binglog replayed,pair count: 0 [OK]
+[8514] 25 Feb 22:31:37 [CONN]Connection from 0.0.0.0
+[8514] 25 Feb 22:32:51 [BYE]: 0.0.0.0, 4
+[8514] 25 Feb 22:34:16 >> [8514]will shutdown...
+[8514] 25 Feb 22:34:16 >> [8514]waiting worker thread....
+[8514] 25 Feb 22:34:17 dump to temp index file [OK]
+[8514] 25 Feb 22:34:17 overwrite index file [OK]
+[8514] 25 Feb 22:34:17 remove binlog file[OK]
+[8514] 25 Feb 22:34:17 >> [8514]Bye~
+[2764] 28 Feb 22:44:21 >> IP listening:0.0.0.0
+[2764] 28 Feb 22:44:21 >> port: 8402
+[2764] 28 Feb 22:44:21 >> data_file: data/tst.db
+[2764] 28 Feb 22:44:21 >> reponse delay(MS): 0
+[2764] 28 Feb 22:44:21 >> log file: log/tstserver.log
+[2764] 28 Feb 22:44:21 >> no log: 0
+[2764] 28 Feb 22:44:21 new tst index in memory, because no index file
+[2764] 28 Feb 22:44:21 binglog replayed,pair count: 0 [OK]
+[2764] 28 Feb 22:44:34 [CONN]Connection from 0.0.0.0
+[2764] 28 Feb 22:45:33 [BYE]: 0.0.0.0, 4
+[2764] 28 Feb 22:45:44 [CONN]Connection from 127.0.0.1
+[2764] 28 Feb 22:46:32 [BYE]: 127.0.0.1, 2
+[2764] 28 Feb 22:47:02 >> [2764]will shutdown...
+[2764] 28 Feb 22:47:02 >> [2764]waiting worker thread....
+[2764] 28 Feb 22:47:03 dump to temp index file [OK]
+[2764] 28 Feb 22:47:03 overwrite index file [OK]
+[2764] 28 Feb 22:47:03 remove binlog file[OK]
+[2764] 28 Feb 22:47:03 >> [2764]Bye~
+[25510] 29 Feb 21:04:20 >> IP listening:0.0.0.0
+[25510] 29 Feb 21:04:20 >> port: 8402
+[25510] 29 Feb 21:04:20 >> data_file: data/tst.db
+[25510] 29 Feb 21:04:20 >> reponse delay(MS): 0
+[25510] 29 Feb 21:04:20 >> log file: log/tstserver.log
+[25510] 29 Feb 21:04:20 >> no log: 0
+[25510] 29 Feb 21:04:20 reload tst index [OK]
+[25510] 29 Feb 21:04:20 binglog replayed,pair count: 0 [OK]
+[25510] 29 Feb 21:04:26 [CONN]Connection from 0.0.0.0
+[25510] 29 Feb 21:05:21 [BYE]: 0.0.0.0, 2
+[25510] 29 Feb 21:05:28 >> [25510]will shutdown...
+[25510] 29 Feb 21:05:28 >> [25510]waiting worker thread....
+[25510] 29 Feb 21:05:29 >> [25510]will shutdown...
+[25510] 29 Feb 21:05:29 dump to temp index file [OK]
+[25510] 29 Feb 21:05:29 overwrite index file [OK]
+[25510] 29 Feb 21:05:29 remove binlog file[OK]
+[25510] 29 Feb 21:05:29 >> [25510]Bye~
+[25602] 29 Feb 21:05:49 >> IP listening:0.0.0.0
+[25602] 29 Feb 21:05:49 >> port: 8402
+[25602] 29 Feb 21:05:49 >> data_file: data/tst.db
+[25602] 29 Feb 21:05:49 >> reponse delay(MS): 0
+[25602] 29 Feb 21:05:49 >> log file: log/tstserver.log
+[25602] 29 Feb 21:05:49 >> no log: 0
+[25602] 29 Feb 21:05:49 new tst index in memory, because no index file
+[25602] 29 Feb 21:05:49 binglog replayed,pair count: 0 [OK]
+[25602] 29 Feb 21:05:53 [CONN]Connection from 0.0.0.0
+[25602] 29 Feb 21:06:10 [BYE]: 0.0.0.0, 2
+[25602] 29 Feb 21:12:23 >> [25602]will shutdown...
+[25602] 29 Feb 21:12:23 >> [25602]waiting worker thread....
+[25602] 29 Feb 21:12:24 dump to temp index file [OK]
+[25602] 29 Feb 21:12:24 overwrite index file [OK]
+[25602] 29 Feb 21:12:24 remove binlog file[OK]
+[25602] 29 Feb 21:12:24 >> [25602]Bye~
+[25988] 29 Feb 21:38:53 >> IP listening:0.0.0.0
+[25988] 29 Feb 21:38:53 >> port: 8402
+[25988] 29 Feb 21:38:53 >> data_file: data/tst.db
+[25988] 29 Feb 21:38:53 >> reponse delay(MS): 0
+[25988] 29 Feb 21:38:53 >> log file: log/tstserver.log
+[25988] 29 Feb 21:38:53 >> no log: 0
+[25988] 29 Feb 21:38:53 reload tst index [OK]
+[25988] 29 Feb 21:38:53 binglog replayed,pair count: 0 [OK]
+[25988] 29 Feb 21:39:00 [CONN]Connection from 0.0.0.0
+[25988] 29 Feb 21:39:00 [BYE]: 0.0.0.0, 2
+[25988] 29 Feb 21:39:02 [CONN]Connection from 127.0.0.1
+[25988] 29 Feb 21:39:02 [BYE]: 127.0.0.1, 2
+[25988] 29 Feb 21:39:03 [CONN]Connection from 127.0.0.1
+[25988] 29 Feb 21:39:03 [BYE]: 127.0.0.1, 2
+[25988] 29 Feb 21:39:08 >> [25988]will shutdown...
+[25988] 29 Feb 21:39:08 >> [25988]waiting worker thread....
+[25988] 29 Feb 21:39:09 dump to temp index file [OK]
+[25988] 29 Feb 21:39:09 overwrite index file [OK]
+[25988] 29 Feb 21:39:09 remove binlog file[OK]
+[25988] 29 Feb 21:39:09 >> [25988]Bye~
+[26238] 29 Feb 21:52:56 >> IP listening:0.0.0.0
+[26238] 29 Feb 21:52:56 >> port: 8402
+[26238] 29 Feb 21:52:56 >> data_file: data/tst.db
+[26238] 29 Feb 21:52:56 >> reponse delay(MS): 0
+[26238] 29 Feb 21:52:56 >> log file: log/tstserver.log
+[26238] 29 Feb 21:52:56 >> no log: 0
+[26238] 29 Feb 21:52:56 reload tst index [OK]
+[26238] 29 Feb 21:52:56 binglog replayed,pair count: 0 [OK]
+[26238] 29 Feb 21:53:06 [CONN]Connection from 0.0.0.0
+[26238] 29 Feb 21:53:23 [CONN]Connection from 127.0.0.1
+[26238] 29 Feb 21:53:42 [BYE]: 127.0.0.1, 2
+[26238] 29 Feb 21:54:25 [BYE]: 0.0.0.0, 4
+[26238] 29 Feb 21:54:38 [CONN]Connection from 127.0.0.1
+[26238] 29 Feb 21:55:12 [BYE]: 127.0.0.1, 2
+[26238] 29 Feb 22:03:27 [CONN]Connection from 127.0.0.1
+[26238] 29 Feb 22:03:53 [BYE]: 127.0.0.1, 2
+[26238] 29 Feb 22:05:49 [CONN]Connection from 127.0.0.1
+[26238] 29 Feb 22:06:06 [BYE]: 127.0.0.1, 2
+[26238] 01 Mar 20:41:47 >> [26238]will shutdown...
+[26238] 01 Mar 20:41:47 >> [26238]waiting worker thread....
+[26238] 01 Mar 20:41:48 dump to temp index file [OK]
+[26238] 01 Mar 20:41:48 overwrite index file [OK]
+[26238] 01 Mar 20:41:48 remove binlog file[OK]
+[26238] 01 Mar 20:41:48 >> [26238]Bye~
+[8010] 01 Mar 20:41:55 >> IP listening:0.0.0.0
+[8010] 01 Mar 20:41:55 >> port: 8402
+[8010] 01 Mar 20:41:55 >> data_file: data/tst.db
+[8010] 01 Mar 20:41:55 >> reponse delay(MS): 0
+[8010] 01 Mar 20:41:55 >> log file: log/tstserver.log
+[8010] 01 Mar 20:41:55 >> no log: 0
+[8010] 01 Mar 20:41:55 reload tst index [OK]
+[8010] 01 Mar 20:41:55 binglog replayed,pair count: 0 [OK]
+[8010] 01 Mar 20:43:00 [CONN]Connection from 0.0.0.0
+[8010] 01 Mar 20:43:15 [BYE]: 0.0.0.0, 2
+[8010] 01 Mar 20:44:05 [CONN]Connection from 127.0.0.1
+[8010] 01 Mar 20:44:08 [BYE]: 127.0.0.1, 2
+[8010] 01 Mar 20:44:40 [CONN]Connection from 127.0.0.1
+[8010] 01 Mar 20:45:01 [BYE]: 127.0.0.1, 2
+[8010] 01 Mar 20:45:11 >> [8010]will shutdown...
+[8010] 01 Mar 20:45:11 >> [8010]waiting worker thread....
+[8010] 01 Mar 20:45:12 >> [8010]will shutdown...
+[8010] 01 Mar 20:45:12 dump to temp index file [OK]
+[8010] 01 Mar 20:45:12 overwrite index file [OK]
+[8010] 01 Mar 20:45:12 remove binlog file[OK]
+[8010] 01 Mar 20:45:12 >> [8010]Bye~
+[8132] 01 Mar 20:45:19 >> IP listening:0.0.0.0
+[8132] 01 Mar 20:45:19 >> port: 8402
+[8132] 01 Mar 20:45:19 >> data_file: data/tst.db
+[8132] 01 Mar 20:45:19 >> reponse delay(MS): 0
+[8132] 01 Mar 20:45:19 >> log file: log/tstserver.log
+[8132] 01 Mar 20:45:19 >> no log: 0
+[8132] 01 Mar 20:45:19 reload tst index [OK]
+[8132] 01 Mar 20:45:19 binglog replayed,pair count: 0 [OK]
+[8132] 01 Mar 20:45:41 [CONN]Connection from 0.0.0.0
+[8132] 01 Mar 20:46:03 [BYE]: 0.0.0.0, 2
+[8132] 01 Mar 20:46:44 >> [8132]will shutdown...
+[8132] 01 Mar 20:46:44 >> [8132]waiting worker thread....
+[8132] 01 Mar 20:46:45 dump to temp index file [OK]
+[8132] 01 Mar 20:46:45 overwrite index file [OK]
+[8132] 01 Mar 20:46:45 remove binlog file[OK]
+[8132] 01 Mar 20:46:45 >> [8132]Bye~
+[8292] 01 Mar 20:49:47 >> IP listening:0.0.0.0
+[8292] 01 Mar 20:49:47 >> port: 8402
+[8292] 01 Mar 20:49:47 >> data_file: data/tst.db
+[8292] 01 Mar 20:49:47 >> reponse delay(MS): 0
+[8292] 01 Mar 20:49:47 >> log file: log/tstserver.log
+[8292] 01 Mar 20:49:47 >> no log: 0
+[8292] 01 Mar 20:49:47 reload tst index [OK]
+[8292] 01 Mar 20:49:47 binglog replayed,pair count: 0 [OK]
+[8292] 01 Mar 20:50:17 [CONN]Connection from 0.0.0.0
+[8292] 01 Mar 20:50:42 [BYE]: 0.0.0.0, 2
+[8292] 01 Mar 20:52:00 >> [8292]will shutdown...
+[8292] 01 Mar 20:52:00 >> [8292]waiting worker thread....
+[8292] 01 Mar 20:52:00 dump to temp index file [OK]
+[8292] 01 Mar 20:52:00 overwrite index file [OK]
+[8292] 01 Mar 20:52:00 remove binlog file[OK]
+[8292] 01 Mar 20:52:00 >> [8292]Bye~
+[21471] 02 Mar 20:57:21 >> IP listening:0.0.0.0
+[21471] 02 Mar 20:57:21 >> port: 8402
+[21471] 02 Mar 20:57:21 >> data_file: data/tst.db
+[21471] 02 Mar 20:57:21 >> reponse delay(MS): 0
+[21471] 02 Mar 20:57:21 >> log file: log/tstserver.log
+[21471] 02 Mar 20:57:21 >> no log: 0
+[21471] 02 Mar 20:57:21 reload tst index [OK]
+[21471] 02 Mar 20:57:21 binglog replayed,pair count: 0 [OK]
+[21471] 02 Mar 20:57:24 >> [21471]will shutdown...
+[21471] 02 Mar 20:57:24 >> [21471]waiting worker thread....
+[21471] 02 Mar 20:57:25 >> [21471]will shutdown...
+[21471] 02 Mar 20:57:25 dump to temp index file [OK]
+[21471] 02 Mar 20:57:25 overwrite index file [OK]
+[21471] 02 Mar 20:57:25 remove binlog file[OK]
+[21471] 02 Mar 20:57:25 >> [21471]Bye~
+[21581] 02 Mar 21:01:12 >> IP listening:0.0.0.0
+[21581] 02 Mar 21:01:12 >> port: 8402
+[21581] 02 Mar 21:01:12 >> data_file: data/tst.db
+[21581] 02 Mar 21:01:12 >> reponse delay(MS): 0
+[21581] 02 Mar 21:01:12 >> log file: log/tstserver.log
+[21581] 02 Mar 21:01:12 >> no log: 0
+[21581] 02 Mar 21:01:12 reload tst index [OK]
+[21581] 02 Mar 21:01:12 binglog replayed,pair count: 0 [OK]
+[21581] 02 Mar 21:01:15 >> [21581]will shutdown...
+[21581] 02 Mar 21:01:15 >> [21581]waiting worker thread....
+[21581] 02 Mar 21:01:16 dump to temp index file [OK]
+[21581] 02 Mar 21:01:16 overwrite index file [OK]
+[21581] 02 Mar 21:01:16 remove binlog file[OK]
+[21581] 02 Mar 21:01:16 >> [21581]Bye~
+[21774] 02 Mar 21:07:51 >> IP listening:0.0.0.0
+[21774] 02 Mar 21:07:51 >> port: 8402
+[21774] 02 Mar 21:07:51 >> data_file: data/tst.db
+[21774] 02 Mar 21:07:51 >> reponse delay(MS): 0
+[21774] 02 Mar 21:07:51 >> log file: log/tstserver.log
+[21774] 02 Mar 21:07:51 >> no log: 0
+[21774] 02 Mar 21:07:51 reload tst index [OK]
+[21774] 02 Mar 21:07:52 binglog replayed,pair count: 0 [OK]
+[21774] 02 Mar 21:07:53 >> [21774]will shutdown...
+[21774] 02 Mar 21:07:53 >> [21774]waiting worker thread....
+[21774] 02 Mar 21:07:54 dump to temp index file [OK]
+[21774] 02 Mar 21:07:54 overwrite index file [OK]
+[21774] 02 Mar 21:07:54 remove binlog file[OK]
+[21774] 02 Mar 21:07:54 >> [21774]Bye~
+[21856] 02 Mar 21:09:00 >> IP listening:0.0.0.0
+[21856] 02 Mar 21:09:00 >> port: 8402
+[21856] 02 Mar 21:09:00 >> data_file: /tmp/data/tst.db
+[21856] 02 Mar 21:09:00 >> reponse delay(MS): 0
+[21856] 02 Mar 21:09:00 >> log file: log/tstserver.log
+[21856] 02 Mar 21:09:00 >> no log: 0
+[21856] 02 Mar 21:09:00 new tst index in memory, because no index file
+[21856] 02 Mar 21:09:00 binglog replayed,pair count: 0 [OK]
+[21856] 02 Mar 21:09:08 >> [21856]will shutdown...
+[21856] 02 Mar 21:09:08 >> [21856]waiting worker thread....
+[21856] 02 Mar 21:09:08 dump to temp index file [OK]
+[21856] 02 Mar 21:09:08 overwrite index file [OK]
+[21856] 02 Mar 21:09:08 remove binlog file[OK]
+[21856] 02 Mar 21:09:08 >> [21856]Bye~
+[21979] 02 Mar 21:10:31 >> IP listening:0.0.0.0
+[21979] 02 Mar 21:10:31 >> port: 8402
+[21979] 02 Mar 21:10:31 >> data_file: data/tst.db
+[21979] 02 Mar 21:10:31 >> reponse delay(MS): 0
+[21979] 02 Mar 21:10:31 >> log file: log/tstserver.log
+[21979] 02 Mar 21:10:31 >> no log: 0
+[21979] 02 Mar 21:10:31 reload tst index [OK]
+[21979] 02 Mar 21:10:31 binglog replayed,pair count: 0 [OK]
+[21979] 02 Mar 21:10:33 >> [21979]will shutdown...
+[21979] 02 Mar 21:10:33 >> [21979]waiting worker thread....
+[21979] 02 Mar 21:10:33 dump to temp index file [OK]
+[21979] 02 Mar 21:10:33 overwrite index file [OK]
+[21979] 02 Mar 21:10:33 remove binlog file[OK]
+[21979] 02 Mar 21:10:33 >> [21979]Bye~
+[22053] 02 Mar 21:10:53 >> IP listening:0.0.0.0
+[22053] 02 Mar 21:10:53 >> port: 8402
+[22053] 02 Mar 21:10:53 >> data_file: data/tst.db
+[22053] 02 Mar 21:10:53 >> reponse delay(MS): 0
+[22053] 02 Mar 21:10:53 >> log file: log/tstserver.log
+[22053] 02 Mar 21:10:53 >> no log: 0
+[22053] 02 Mar 21:10:53 reload tst index [OK]
+[22053] 02 Mar 21:10:53 binglog replayed,pair count: 0 [OK]
+[22053] 02 Mar 21:10:55 >> [22053]will shutdown...
+[22053] 02 Mar 21:10:55 >> [22053]waiting worker thread....
+[22053] 02 Mar 21:10:55 dump to temp index file [OK]
+[22053] 02 Mar 21:10:55 overwrite index file [OK]
+[22053] 02 Mar 21:10:55 remove binlog file[OK]
+[22053] 02 Mar 21:10:55 >> [22053]Bye~
+[22134] 02 Mar 21:12:38 >> IP listening:0.0.0.0
+[22134] 02 Mar 21:12:38 >> port: 8402
+[22134] 02 Mar 21:12:38 >> data_file: data/tst.db
+[22134] 02 Mar 21:12:38 >> reponse delay(MS): 0
+[22134] 02 Mar 21:12:38 >> log file: log/tstserver.log
+[22134] 02 Mar 21:12:38 >> no log: 0
+[22134] 02 Mar 21:12:38 reload tst index [OK]
+[22134] 02 Mar 21:12:38 binglog replayed,pair count: 0 [OK]
+[22134] 02 Mar 21:12:40 >> [22134]will shutdown...
+[22134] 02 Mar 21:12:40 >> [22134]waiting worker thread....
+[22134] 02 Mar 21:12:40 dump to temp index file [OK]
+[22134] 02 Mar 21:12:40 overwrite index file [OK]
+[22134] 02 Mar 21:12:40 remove binlog file[OK]
+[22134] 02 Mar 21:12:40 >> [22134]Bye~
+[22220] 02 Mar 21:17:18 >> IP listening:0.0.0.0
+[22220] 02 Mar 21:17:18 >> port: 8402
+[22220] 02 Mar 21:17:18 >> data_file: data/tst.db
+[22220] 02 Mar 21:17:18 >> reponse delay(MS): 0
+[22220] 02 Mar 21:17:18 >> log file: log/tstserver.log
+[22220] 02 Mar 21:17:18 >> no log: 0
+[22220] 02 Mar 21:17:18 new tst index in memory, because no index file
+[22220] 02 Mar 21:17:18 binglog replayed,pair count: 0 [OK]
+[22220] 02 Mar 21:17:33 [CONN]Connection from 0.0.0.0
+[22220] 02 Mar 21:18:31 [BYE]: 0.0.0.0, 4
+[22220] 02 Mar 21:19:31 [CONN]Connection from 127.0.0.1
+[22220] 02 Mar 21:20:43 [BYE]: 127.0.0.1, 2
+[22220] 02 Mar 21:20:51 >> [22220]will shutdown...
+[22220] 02 Mar 21:20:51 >> [22220]waiting worker thread....
+[22220] 02 Mar 21:20:52 >> [22220]will shutdown...
+[22220] 02 Mar 21:20:52 dump to temp index file [OK]
+[22220] 02 Mar 21:20:52 overwrite index file [OK]
+[22220] 02 Mar 21:20:52 remove binlog file[OK]
+[22220] 02 Mar 21:20:52 >> [22220]Bye~
+[22333] 02 Mar 21:21:45 >> IP listening:0.0.0.0
+[22333] 02 Mar 21:21:45 >> port: 8402
+[22333] 02 Mar 21:21:45 >> data_file: data/tst.db
+[22333] 02 Mar 21:21:45 >> reponse delay(MS): 0
+[22333] 02 Mar 21:21:45 >> log file: log/tstserver.log
+[22333] 02 Mar 21:21:45 >> no log: 0
+[22333] 02 Mar 21:21:45 reload tst index [OK]
+[22333] 02 Mar 21:21:46 binglog replayed,pair count: 0 [OK]
+[22333] 02 Mar 21:21:48 [CONN]Connection from 0.0.0.0
+[22333] 02 Mar 21:21:56 [BYE]: 0.0.0.0, 2
+[22333] 02 Mar 21:26:04 >> [22333]will shutdown...
+[22333] 02 Mar 21:26:04 >> [22333]waiting worker thread....
+[22333] 02 Mar 21:26:04 dump to temp index file [OK]
+[22333] 02 Mar 21:26:04 overwrite index file [OK]
+[22333] 02 Mar 21:26:04 remove binlog file[OK]
+[22333] 02 Mar 21:26:04 >> [22333]Bye~
+[22677] 02 Mar 21:35:24 >> IP listening:0.0.0.0
+[22677] 02 Mar 21:35:24 >> port: 8402
+[22677] 02 Mar 21:35:24 >> data_file: data/tst.db
+[22677] 02 Mar 21:35:24 >> reponse delay(MS): 0
+[22677] 02 Mar 21:35:24 >> log file: log/tstserver.log
+[22677] 02 Mar 21:35:24 >> no log: 0
+[22677] 02 Mar 21:35:24 new tst index in memory, because no index file
+[22677] 02 Mar 21:35:24 binglog replayed,pair count: 0 [OK]
+[22677] 02 Mar 21:36:47 >> [22677]will shutdown...
+[22677] 02 Mar 21:36:47 >> [22677]waiting worker thread....
+[22677] 02 Mar 21:36:47 dump to temp index file [OK]
+[22677] 02 Mar 21:36:47 overwrite index file [OK]
+[22677] 02 Mar 21:36:47 remove binlog file[OK]
+[22677] 02 Mar 21:36:47 >> [22677]Bye~
+[23411] 02 Mar 21:55:48 >> IP listening:0.0.0.0
+[23411] 02 Mar 21:55:48 >> port: 8402
+[23411] 02 Mar 21:55:48 >> data_file: data/tst.db
+[23411] 02 Mar 21:55:48 >> reponse delay(MS): 0
+[23411] 02 Mar 21:55:48 >> log file: log/tstserver.log
+[23411] 02 Mar 21:55:48 >> no log: 0
+[23411] 02 Mar 21:55:48 reload tst index [OK]
+[23411] 02 Mar 21:55:48 binglog replayed,pair count: 0 [OK]
+[23411] 02 Mar 21:55:52 >> [23411]will shutdown...
+[23411] 02 Mar 21:55:52 >> [23411]waiting worker thread....
+[23411] 02 Mar 21:55:53 dump to temp index file [OK]
+[23411] 02 Mar 21:55:53 overwrite index file [OK]
+[23411] 02 Mar 21:55:53 remove binlog file[OK]
+[23411] 02 Mar 21:55:53 >> [23411]Bye~
+[23503] 02 Mar 21:56:17 >> IP listening:0.0.0.0
+[23503] 02 Mar 21:56:17 >> port: 8402
+[23503] 02 Mar 21:56:17 >> data_file: data/tst.db
+[23503] 02 Mar 21:56:17 >> reponse delay(MS): 0
+[23503] 02 Mar 21:56:17 >> log file: log/tstserver.log
+[23503] 02 Mar 21:56:17 >> no log: 0
+[23503] 02 Mar 21:56:17 reload tst index [OK]
+[23503] 02 Mar 21:56:17 binglog replayed,pair count: 0 [OK]
+[23503] 02 Mar 21:56:24 [CONN]Connection from 0.0.0.0
+[23503] 02 Mar 21:57:06 [BYE]: 0.0.0.0, 2
+[23503] 02 Mar 21:57:08 >> [23503]will shutdown...
+[23503] 02 Mar 21:57:08 >> [23503]waiting worker thread....
+[23503] 02 Mar 21:57:09 dump to temp index file [OK]
+[23503] 02 Mar 21:57:09 overwrite index file [OK]
+[23503] 02 Mar 21:57:09 remove binlog file[OK]
+[23503] 02 Mar 21:57:09 >> [23503]Bye~
